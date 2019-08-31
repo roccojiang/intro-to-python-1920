@@ -1,4 +1,4 @@
-# Solve quadratic formula for ax^2 + bx + c, given from user input
+# Solve quadratic formula for ax^2 + bx + c = 0, given from user input
 
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
